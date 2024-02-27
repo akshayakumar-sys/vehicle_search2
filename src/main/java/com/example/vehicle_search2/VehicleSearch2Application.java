@@ -8,6 +8,8 @@ public class VehicleSearch2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VehicleSearch2Application.class, args);
+		System.out.println("Hello Git");
 	}
+
 
 }
